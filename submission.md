@@ -6,7 +6,7 @@ layout: default
 
 ## Paper Submission
 
-<p>Papers must be submitted through CMT (link to be available soon). <!--({{ site.workshop.submission_link }})--></p>
+<p>Papers must be submitted through ({{ site.workshop.submission_link }})</p>
 
 ## Formatting Your Manuscript
 
