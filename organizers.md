@@ -18,11 +18,11 @@ layout: default
 
 # Program Committee
 
-<!-- {% for person in site.workshop.pc %}
+{% for person in site.workshop.pc %}
 * {{ person.name }} ({{person.affiliation }})
 {% endfor %}
-* ...more coming -->
-Coming soon...
+* ...more coming
+<!-- Coming soon...-->
 
 # Contact
 
