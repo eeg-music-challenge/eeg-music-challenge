@@ -19,7 +19,7 @@ layout: default
 # Program Committee
 
 {% for person in site.workshop.pc %}
-* {{ person.name }} ({{person.affiliation }})
+* {{ person.name }} {{ person.surname }} ({{person.affiliation }})
 {% endfor %}
 * ...more coming
 <!-- Coming soon...-->
