@@ -45,9 +45,42 @@ workshop:
       email: concetto.spampinato@unict.it
       pic: img/concetto.jpg
   pc:
+    - name: Giovanni
+      surname: Bellitto
+      affiliation: University of Catania
+    - name: Salvatore 
+      surname: Calcagno
+      affiliation: University of Catania
+    - name: Tolga  
+      surname: Cukur
+      affiliation: Bilkent University
+    - name: Rutger   
+      surname: Hendrix
+      affiliation: Università Campus Bio-Medico Rome
+    - name: Davood
+      surname: Karimi
+      affiliation: Boston Children's Hospital
+    - name: Aggelos 
+      surname: Katsaggelos
+      affiliation: Northwestern University
+    - name: Raffaele 
+      surname: Mineo
+      affiliation: Università Campus Bio-Medico Rome
+    - name: Simone 
+      surname: Palazzo
+      affiliation: University of Catania
+    - name: Matteo   
+      surname: Pennisi
+      affiliation: Università Campus Bio-Medico Rome
+    - name: Ziyue  
+      surname: Xu
+      affiliation: NVIDIA
+    - name: Jing 
+      surname: Yuan
+      affiliation: Zhejiang University
   talks:
-    - name: "TBA"
-      affiliation: "TBA"
+    - name: "Zongwei Zhou"
+      affiliation: "Johns Hopkins University"
       pic: img/pic.jpg
       title: "TBD"
       file_text: "PDF"
