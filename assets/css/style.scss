@@ -32,13 +32,13 @@ div.item {
 .affiliation {
     font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
     display: block;
-    font-size:14px;
+    font-size:16px;
     font-weight: 300;
 }
 
 div.speaker .cont {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-start;
     /*vertical-align: top;
     text-align: center;
@@ -46,8 +46,8 @@ div.speaker .cont {
 }
 
 div.speaker img {
-    width: 400px;
-    height: 400px;
+    width: 800px;
+    height: 800px;
     background-color: grey;
     margin-right: 20px;
     border-radius: 50%;
