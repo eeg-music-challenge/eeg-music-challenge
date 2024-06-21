@@ -4,18 +4,7 @@ layout: default
 
 # Talks
 {% for person in site.workshop.talks %}
-<!-- <div class="speaker">
-    <div class="cont">
-        <div class="details">
-            <img src="{{ person.pic }}"/>
-            <span class="name">{{ person.name }}<br>{{ person.surname }}</span>
-            <span class="affiliation">{{ person.affiliation }}</span>
-            <span class="title">Title of the talk: {{ person.title }} </span>
-            <span class="bio"> {{ person.bio }} <\span>
-            <!-- <span class="affiliation"><a href='{{ person.file_url }}'>{{ person.file_text }}</a></span>-->
-        </div>
-    </div>
-</div>-->
+
 <div class="speaker">
     <h2>Dr. {{ person.name }} {{ person.surname }}</h2>
     <span class="affiliation">{{ person.affiliation }}</span>
@@ -24,7 +13,7 @@ layout: default
             <img src="{{ person.pic }}" style="width: 100%; height: auto; border-radius: 50%;"/>
         </div>
         <div class="bio">
-            <p>Biography or other relevant text goes here.</p>
+            <p>{{ person.bio }}</p>
         </div>
     </div>
 </div>
