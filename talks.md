@@ -19,11 +19,11 @@ layout: default
 </div>-->
 <div class="speaker">
     <div class="cont">
+        <span class="title">Title of the talk: {{ person.title }}</span>
         <img src="{{ person.pic }}"/>
         <div class="details">
             <span class="name">{{ person.name }}<br>{{ person.surname }}</span>
             <span class="affiliation">{{ person.affiliation }}</span>
-            <span class="title">Title of the talk: {{ person.title }}</span>
             <!-- <span class="affiliation"><a href='{{ person.file_url }}'>{{ person.file_text }}</a></span>--> 
             <span class="bio">{{ person.bio }}<span>
         </div>
