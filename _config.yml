@@ -81,9 +81,10 @@ workshop:
   talks:
     - name: "Zongwei Zhou"
       affiliation: "Johns Hopkins University"
-      pic: img/pic.jpg
-      title: "TBD"
+      pic: img/Zhou.jpeg
+      title: "Analysis of Pancreatic Tumors by Synthesis"
       file_text: "PDF"
       file_url: 
+      bio: "Zongwei Zhou is an assistant research scientist at Johns Hopkins University. He received his Ph.D. in Biomedical Informatics at Arizona State University in 2021. His research focuses on developing novel methods to reduce the annotation efforts for computer-aided detection and diagnosis. Zongwei received the AMIA Doctoral Dissertation Award in 2022, the Elsevier-MedIA Best Paper Award in 2020, and the MICCAI Young Scientist Award in 2019. In addition to seven U.S. patents, Zongwei has published over 30 peer-reviewed journal/conference articles, two of which have been ranked among the most popular articles in IEEE TMI and the highest-cited article in EJNMMI Research. He was named the top 2% of Scientists released by Stanford University in 2022 and 2023."
   program:
     
