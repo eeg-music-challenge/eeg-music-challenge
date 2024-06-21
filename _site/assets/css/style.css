@@ -1037,15 +1037,15 @@ div.item {
 div.speaker .cont {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
   /*vertical-align: top;
   text-align: center;
   width: 110px;*/
 }
 
 div.speaker img {
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
   background-color: grey;
   margin-right: 20px;
   border-radius: 50%;
@@ -1062,7 +1062,7 @@ div.speakers .details .name {
 div.speaker .details .affiliation {
   font-family: "Roboto Slab", "Roboto", "Lato", sans-serif;
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
 }
 
