@@ -6,9 +6,9 @@ layout: default
 {% for person in site.workshop.talks %}
 <div class="speaker">
     <div class="details" >
-    <h3 class="name">Dr. {{ person.name }} {{ person.surname }}<h3>
-    <h4 class="affiliation">{{ person.affiliation }}<h4>
-    <span class="title">"Analysis of Pancreatic Tumors by Synthesis"<span>
+    <h2 class="name">Dr. {{ person.name }} {{ person.surname }}<h2>
+    <h2 class="affiliation">{{ person.affiliation }}<h2>
+    <h3 class="title">"Analysis of Pancreatic Tumors by Synthesis"<h3>
         <div>
             <img src="{{ person.pic }}"/>
         </div>
