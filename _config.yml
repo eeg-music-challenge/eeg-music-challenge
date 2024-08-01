@@ -3,7 +3,7 @@ description: EEG Music Challenge at ICASSP 2025
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-workshop:
+challenge:
   name: "AIPAD: AI in Pancreatic Disease Detection and Diagnosis"
   short: AIPAD
   host: "ICASSP 2025<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
