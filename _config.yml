@@ -1,12 +1,12 @@
-title: AIPAD Workshop
-description: AIPAD Workshop at MICCAI 2024
+title: EEG Music Challenge
+description: EEG Music Challenge at ICASSP 2025
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 workshop:
   name: "AIPAD: AI in Pancreatic Disease Detection and Diagnosis"
   short: AIPAD
-  host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
+  host: "ICASSP 2025<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
   submission_link: https://cmt3.research.microsoft.com/AIPAD2024
   dates:
     submission: June 24, 2024
