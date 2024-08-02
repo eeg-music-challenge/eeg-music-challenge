@@ -16,6 +16,11 @@ We warmly welcome researchers from both academia and industry to participate in 
 
 The top 5 submissions will be invited to present their work at ICASSP 2025, with accepted papers included in the ICASSP proceedings. This special session will feature presentations from the top participants, followed by a panel discussion. Join us for this exciting event!
 
+---
+**Intellectual property.** The intellectual property (IP) is not
+transferred to the challenge organisers, i.e., if code is
+shared/submitted, the participants remain the owners of their code. When the code is made publicly available, an appropriate license should be added.
+
 
 <!--## Workshop Proceedings
 
