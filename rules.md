@@ -15,11 +15,12 @@ Teams who want to join the challenge can register sending an email to salvatore.
 ## Evaluation Criteria and Methodology
 
 More information coming soon...
+
 <!--The performance of the submitted models will be evaluated using the following criteria:
 1.	For task 1 (subject identification), we will compute accuracy score on the held-out-trials test set.
 2.	For task 2 (emotion recognition), we will compute accuracy score separately on both held-out-trials and held-out-subjects test sets. These two scores will be averaged together to obtain the final score.
 
-Participants are allowed to submit results for one or both tasks. We will select the top-5 performing teams, based on the distribution of participants among the tasks.-->
+Participants are allowed to submit results for one or both tasks. We will select the top-5 performing teams, based on the distribution of participants among the tasks. -->
 
 ## Guidelines for participants
 
