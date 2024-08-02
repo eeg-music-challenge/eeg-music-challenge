@@ -18,4 +18,7 @@ layout: default
 
 # Contact
 
-Content
+You can ask for clarification by emailing:
+
+- salvatore.calcagno@phd.unict.it
+- simone.carnemolla@phd.unict.it

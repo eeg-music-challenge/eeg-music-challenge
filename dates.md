@@ -13,4 +13,4 @@ layout: default
 * **Camera ready:** {{ site.workshop.dates.camera_ready }}
 * **Challenge Session at ICASSP 2025:** {{ site.workshop.dates.session }}
 
-All deadlines are at 11:59 AoE.
+All deadlines are at 23:59 Anywhere on Earth (AoE).

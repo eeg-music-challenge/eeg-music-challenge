@@ -4,10 +4,10 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 workshop:
-  name: "EEG-Music Emotion Recognition Grand Challenge"
+  name: "EEG-Music Emotion Recognition"
   short: EREMUS
   host: "ICASSP 2025<br>Hyderabad, India<br>April 6-11, 2025 (TBD)"
-  submission_link: https://cmt3.research.microsoft.com/AIPAD2024
+  submission_link: 
   dates:
     launch: September 2, 2024
     dataset: September 9, 2024
@@ -48,47 +48,4 @@ workshop:
       affiliation: University of Catania
       email: concetto.spampinato@unict.it
       pic: img/concetto.jpg
-  pc:
-    - name: Giovanni
-      surname: Bellitto
-      affiliation: University of Catania
-    - name: Salvatore 
-      surname: Calcagno
-      affiliation: University of Catania
-    - name: Tolga  
-      surname: Cukur
-      affiliation: Bilkent University
-    - name: Rutger   
-      surname: Hendrix
-      affiliation: Università Campus Bio-Medico Rome
-    - name: Davood
-      surname: Karimi
-      affiliation: Boston Children's Hospital
-    - name: Aggelos 
-      surname: Katsaggelos
-      affiliation: Northwestern University
-    - name: Raffaele 
-      surname: Mineo
-      affiliation: Università Campus Bio-Medico Rome
-    - name: Simone 
-      surname: Palazzo
-      affiliation: University of Catania
-    - name: Matteo   
-      surname: Pennisi
-      affiliation: Università Campus Bio-Medico Rome
-    - name: Ziyue  
-      surname: Xu
-      affiliation: NVIDIA
-    - name: Jing 
-      surname: Yuan
-      affiliation: Zhejiang University
-  talks:
-    - name: "Zongwei Zhou"
-      affiliation: "Johns Hopkins University"
-      pic: img/Zhou.jpeg
-      title: "Analysis of Pancreatic Tumors by Synthesis"
-      file_text: "PDF"
-      file_url: 
-      bio: "Zongwei Zhou is an assistant research scientist at Johns Hopkins University. He received his Ph.D. in Biomedical Informatics at Arizona State University in 2021. His research focuses on developing novel methods to reduce the annotation efforts for computer-aided detection and diagnosis. Zongwei received the AMIA Doctoral Dissertation Award in 2022, the Elsevier-MedIA Best Paper Award in 2020, and the MICCAI Young Scientist Award in 2019. In addition to seven U.S. patents, Zongwei has published over 30 peer-reviewed journal/conference articles, two of which have been ranked among the most popular articles in IEEE TMI and the highest-cited article in EJNMMI Research. He was named the top 2% of Scientists released by Stanford University in 2022 and 2023."
-  program:
     
