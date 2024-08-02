@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Workshop program
+# Dataset description
 
-This page will be updated after notification of acceptance.
+Coming soon...
 
 <!--{% for entry in site.workshop.program %}
 {% if entry.type == "organizer" %}

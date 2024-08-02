@@ -16,14 +16,6 @@ layout: default
 {% endfor %}
 </p>
 
-# Program Committee
-
-{% for person in site.workshop.pc %}
-* {{ person.name }} {{ person.surname }} ({{person.affiliation }})
-{% endfor %}
-* ...more coming
-<!-- Coming soon...-->
-
 # Contact
 
-Click on your favorite organizer to contact us for any additional information!
+Content

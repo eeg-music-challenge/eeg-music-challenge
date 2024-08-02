@@ -1,43 +1,47 @@
-title: EEG Music Challenge
-description: EEG Music Challenge at ICASSP 2025
+title: EEG-Music Emotion Recognition Challenge
+description: EEG Music Emotion Recognition Challenge at ICASSP 2025
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 workshop:
-  name: "AIPAD: AI in Pancreatic Disease Detection and Diagnosis"
-  short: AIPAD
-  host: "ICASSP 2025<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
+  name: "EEG-Music Emotion Recognition Grand Challenge"
+  short: EREMUS
+  host: "ICASSP 2025<br>Hyderabad, India<br>April 6-11, 2025 (TBD)"
   submission_link: https://cmt3.research.microsoft.com/AIPAD2024
   dates:
-    submission: June 24, 2024
-    decision: July 15, 2024
-    camera_ready: July 30, 2024
-    workshop: October 10, 2024
+    launch: September 2, 2024
+    dataset: September 9, 2024
+    submission: November 25, 2024
+    leaderboard: November 27, 2024
+    paper: December 9, 2024
+    decision: December 30, 2024
+    camera_ready: January 13, 2025
+    session: TBD
   organizers:
-    - name: Federica
-      surname: Proietto Salanitri
+    - name: Salvatore
+      surname: Calcagno
       affiliation: University of Catania
-      email: federica.proiettosalanitri@unict.it
-      pic: img/federica.jpg
-    - name: Serestina
-      surname: Viriri
-      affiliation: University of KwaZulu-Natal
-      email: 
-      pic: img/serestina_viriri.jpg
-    - name: Ulas
-      surname: Bagci
-      affiliation: Northwestern University
-      email: 
+      email: salvatore.calcagno@phd.unict.it
+      pic: img/salvo.JPG
+    - name: Simone
+      surname: Carnemolla
+      affiliation: University of Catania
+      email: simone.carnemolla@phd.unict.it
       pic: img/pic.jpg
-    - name: Pallavi
-      surname: Tiwari
-      affiliation: University of Wisconsin-Madison
-      email: 
+    - name: Isaak
+      surname: Kavasidis
+      affiliation: University of Catania
+      email: kavasidis@unict.it
       pic: img/pic.jpg
-    - name: Boqing
-      surname: Gong
-      affiliation: Google
-      email: 
+    - name: Simone
+      surname: Palazzo
+      affiliation: University of Catania
+      email: simone.palazzo@unict.it
+      pic: img/pic.jpg
+    - name: Daniela
+      surname: Giordano
+      affiliation: University of Catania
+      email: daniela.giordano@unict.it
       pic: img/pic.jpg
     - name: Concetto
       surname: Spampinato
