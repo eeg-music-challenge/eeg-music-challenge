@@ -1,8 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-cayman';
 
+/* 
 @media screen and (min-width: 64em)
 {
 .project-name {
@@ -43,7 +44,7 @@ div.speaker .cont {
     /*vertical-align: top;
     text-align: center;
     width: 110px;*/
-}
+/*}
 
 div.speaker img {
     width: 200px;
@@ -69,7 +70,7 @@ div.speaker .details .affiliation {
 
 
 .page-header {
-    background-image: url(/img/AIPAD_page.png);
+    background-image: url(img/AIPAD_page.png);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -109,3 +110,4 @@ div.speaker .details .affiliation {
 .project-tagline {
    opacity: 1;
 }
+*/
