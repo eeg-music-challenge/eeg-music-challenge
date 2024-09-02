@@ -21,8 +21,3 @@ The top 5 submissions will be invited to present their work at ICASSP 2025, with
 transferred to the challenge organisers, i.e., if code is
 shared/submitted, the participants remain the owners of their code. When the code is made publicly available, an appropriate license should be added.
 
-
-<!--## Workshop Proceedings
-
-Workshop proceedings will be published in high-quality venues, indexed by both Scopus and Web of Science.
-Final details are being confirmed; further information will be provided as soon as it is available.-->
