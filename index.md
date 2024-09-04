@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# News
+
+## Dataset Release
+The dataset is now available at the <a href='https://kaggle.com/datasets/e25d8f6d371bfbe7f35f67458a7759de80d809f970f33b05ff22e7abb70bd65a'>EREMUS Kaggle page</a>
+
+## Baseline implemenation
+You can find baselines implementation in our <a href='https://github.com/SalvoCalcagno/eeg-music-challenge-icassp-2025-baselines'>GitHub repository</a>.
+
+
 # Call for participation
 
 As our understanding of emotions continues to evolve, the ability to accurately interpret and respond to emotional cues is more important than ever. Traditional methods of emotion recognition often fall short, particularly when it comes to the subtle and complex responses elicited by music. This is where our challenge comes in.

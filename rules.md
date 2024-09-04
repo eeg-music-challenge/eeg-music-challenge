@@ -15,8 +15,8 @@ Teams who want to join the challenge can register sending an email to salvatore.
 ## Evaluation Criteria and Methodology
 
 The performance of the submitted models will be evaluated using the following criteria:
-1.	For task 1 (subject identification), we will compute balanced accuracy score on the held-out-trials test set.
-2.	For task 2 (emotion recognition), we will compute baalanced accuracy score separately on both held-out-trials and held-out-subjects test sets. These two scores will be averaged together to obtain the final score.
+1.	For task 1 (subject identification), we will compute **balanced accuracy score** on the **held-out-trials** test set.
+2.	For task 2 (emotion recognition), we will compute **balanced accuracy score** separately on both **held-out-trials** and **held-out-subjects** test sets. These two scores will be **averaged** together to obtain the final score.
 
 In the event of a tie, the originality of the approach will be used as an additional criterion, with the organizers taking responsibility for the final decision.
 
@@ -33,7 +33,7 @@ Please note that the held-out trials test set for task 1 and task 2 are not comp
 - Each participant can only be included in one participating team.
 - Participants can use the full training set to train the models for both tasks. Stimulus information can be used for training (information can be deduced based on the Spotify ID).
 - Test data cannot be used during training. The test sets can be used only to provide output predictions. All parameters should be tuned on the training set. Participants can derive validation sets from the training set. 
-<!-- - Our baseline implementation also comes with the definition of two validation sets. You can use validation data during training. -->
+- Our baseline implementation also comes with the definition of two validation sets. You can use validation data during training.
 - For the emotion recognition task, although the held-out trial test set does not contain information about the subject identity, participants are allowed to infer this information (e.g. using a model trained for subject identification).
 - We encourage all teams to publicly share their code at the end of the contest.
 - The use of external data (both training data and/or pretrained models) is allowed, if all conditions are met:

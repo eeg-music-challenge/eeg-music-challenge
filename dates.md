@@ -4,7 +4,7 @@ layout: default
 
 # Important dates
 
-* **Launch of the challenge:** {{ site.workshop.dates.launch }}
+* <del>**Launch of the challenge:** {{ site.workshop.dates.launch }}</del>
 * **Dataset release:** {{ site.workshop.dates.dataset }}
 * **Submission deadline:** {{ site.workshop.dates.submission }}
 * **Leaderboard release:** {{ site.workshop.dates.leaderboard }}
