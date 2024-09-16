@@ -41,3 +41,8 @@ Please note that the held-out trials test set for task 1 and task 2 are not comp
   - Datasets/pretrained models must be available before the start of this challenge.
   - Datasets/model weights used to generate predictions must be cited in the final description and in the final paper.
   - Public pretrained models, trained on private data can be used only after the approval of the organizers.
+
+## FAQ
+
+**Is it allowed to download music using the Spotify ID and encode audio information as features for training?**
+<br>Yes, stimulus information can be used for training. Then, downloading music using the Spotify ID and encoding audio information as features is allowed.
