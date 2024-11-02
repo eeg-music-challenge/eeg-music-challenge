@@ -4,6 +4,12 @@ layout: default
 
 # News
 
+## Dataset Link Sharing Issues
+Unfortunately, the Kaggle link sharing feature is currently not working properly. We apologize for the inconvenience. As a backup, we have uploaded the dataset to Zenodo, which can be accessed at the following <a href='https://zenodo.org/records/14028845?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjI4MzMxNTI3LTljMjMtNDQxNi1iMTc4LWU4ODAxZTEyMTZiZSIsImRhdGEiOnt9LCJyYW5kb20iOiI4OTExYWM4ZTdhNjUyNjBlNTRjNjliMTgxZmIxZmYwZCJ9.oiKqLBl7GPxNDXautcVhcR7VbuTSJqaS5rnubPrZX8KV6n9_Vs-BIi8x70erGQAlaxCTBvTNtgrx_4qHBolXEQ'>link</a>
+
+## Submission Guidelines
+The submission guidelines are now available! Please check the <a href='https://eeg-music-challenge.github.io/eeg-music-challenge/rules'>Rules</a> tab on this site for complete details. 
+
 ## Dataset Release
 The dataset is now available at the <a href='https://kaggle.com/datasets/e25d8f6d371bfbe7f35f67458a7759de80d809f970f33b05ff22e7abb70bd65a'>EREMUS Kaggle page</a>
 
