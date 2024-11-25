@@ -86,5 +86,16 @@ Ensure all files adhere to this format to meet the submission requirements.
 **Is it allowed to download music using the Spotify ID and encode audio information as features for training?**
 <br>Yes, stimulus information can be used for training. Then, downloading music using the Spotify ID and encoding audio information as features is allowed.
 
+**Can we use audio data (e.g., raw audio and Spotify metrics) during inference?**
+<br>Yes, you can also use the raw audio as well as any other information we can infer from the Spotify ID during inference.
+
 **When will the leaderboard be available?**
 <br>The leaderboard will be released after the challenge concludes. No real-time evaluation will be conducted. We encourage participants to use validation sets to assess model generalization, as this approach is better aligned with the competition’s objectives.
+
+**Could you share the evaluation results on the test set for intermediate submissions?**
+<br>We cannot provide evaluation results on the test set for individual submissions during the competition. Results will be shared only after the competition deadline and for the final submission. We encourage you to use internal validation strategies to refine your methods in preparation for your final submission. Intermediate submissions serve as safe-guards to secure progress and mitigate potential issues. Only the final submission will be evaluated for competition results.
+
+**Can you provide timestamps for the start and end times of the audio clips used?** 
+<br>Unfortunately, during data collection, the start of the trial was not perfectly synchronized with the start of the music. However: 
+- each song was played from the beginning and stopped after the end marker was applied to the EEG trial.
+- based on our observations, the timing of these two events (song start and EEG marker application) may differ by approximately 100-500 milliseconds. An automated script started the song first, followed shortly by the EEG marker, and the reverse happened at the end.
