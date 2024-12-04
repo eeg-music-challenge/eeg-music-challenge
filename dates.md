@@ -6,7 +6,7 @@ layout: default
 
 * <del>**Launch of the challenge:** {{ site.workshop.dates.launch }}</del>
 * <del>**Dataset release:** {{ site.workshop.dates.dataset }}</del>
-* <del>**Submission deadline:** {{ site.workshop.dates.submission }}</del> **Submission deadline extension:** {{ site.workshop.dates.submission_ext }}
+* <del>**Submission deadline:** {{ site.workshop.dates.submission_ext }}
 * **Leaderboard release:** {{ site.workshop.dates.leaderboard_ext }}
 * **2-page paper due (on invitation only):** {{ site.workshop.dates.paper }}
 * **Notification to the authors:** {{ site.workshop.dates.decision }}
