@@ -47,15 +47,35 @@ The final model and hyperparameters (learning rate, batch size) were selected ba
 
 **Leaderboard**
 
-Our strategy yields the following results that serve as baseline
-
-| Model             | Held-out-trialr Bal. Acc. | Held-out-subject Bal. Acc. | Total Score |
+| Team             | Held-out-trialr Bal. Acc. | Held-out-subject Bal. Acc. | Total Score |
 |-------------------|---------------------------|----------------------------|-------------|
-| EEGNet [1]        | 30.72                     | 29.47                      | 30.10       |
-| EEGChannelNet [3] | 29.76                     | 22.23                      | 26.00       |
-| SyncNet [2]       | 28.80                     | 23.08                      | 25.94       |
+| <mark>TUM</mark>         | 46.53 |   36.15 |  41.34 |
+| <mark>BCIGO</mark>    |    46.69 |  34.9  |        40.79 |
+| GISP@HEU       |   44.65 | 31.95 |   38.3  |
+| MindReader     |         40.88 |           34.81 |        37.85 |
+| Neural Harmony |         38.22 |           34.4  |        36.31 |
+| SAIL           |         43.54 |           25.43 |        34.49 |
+| KONKUK_AICV    |         26.71 |           35.89 |        31.3  |
+| WisdomDLUT     |         32.83 |           28.35 |        30.59 |
+| TEAS           |         35.03 |           25.24 |        30.13
+| EEGNet [1]     | 30.72       | 29.47    | 30.10       |
+| ZeD            |         28.21 |           31.46 |        29.83 |
+| NTUA-IRAL      |         27.43 |           27.9  |        27.66 |
+| Hunan          |         29.57 |           23.25 |        26.41 |
+| EMER_IITMZ     |         24.94 |           27.32 |        26.13 |
+| EEGChannelNet [3] | 29.76   | 22.23       | 26.00       |
+| SyncNet [2]   | 28.80       | 23.08          | 25.94       |
+| iBrain         |         20.52 |           31.02 |        25.77 |
+| CUSAP2         |         28.24 |           22.17 |        25.21 |
+| WCQY           |         24.08 |           24.88 |        24.48 |
+| IIP-HCI      |         22.94 |           24.47 |        23.7  |
+| SIP Lab-IITH   |         21.34 |           25.83 |        23.58 |
+| CherryBlossoms |         21.31 |           24.27 |        22.79 |
+| NWPU EEG       |         21.87 |           23.38 |        22.63 |
+| btbu-713       |         19.2  |           23.12 |        21.16 |
+| NJUST_KMC      |         10.77 |           26.96 |        18.87 |
 
-You can replicate results using our <a href='https://github.com/SalvoCalcagno/eeg-music-challenge-icassp-2025-baselines'>GitHub repository</a>.
+Results for [1], [2] and [3] come from our baselines. You can replicate results using our <a href='https://github.com/SalvoCalcagno/eeg-music-challenge-icassp-2025-baselines'>GitHub repository</a>.
 
 ---
 

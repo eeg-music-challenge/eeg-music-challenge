@@ -2,23 +2,6 @@
 layout: default
 ---
 
-# News
-
-## Dataset Link Sharing Issues
-Unfortunately, the Kaggle link sharing feature is currently not working properly. We apologize for the inconvenience. As a backup, we have uploaded the dataset to Zenodo, which can be accessed at the following <a href='https://zenodo.org/records/14028845?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjI4MzMxNTI3LTljMjMtNDQxNi1iMTc4LWU4ODAxZTEyMTZiZSIsImRhdGEiOnt9LCJyYW5kb20iOiI4OTExYWM4ZTdhNjUyNjBlNTRjNjliMTgxZmIxZmYwZCJ9.oiKqLBl7GPxNDXautcVhcR7VbuTSJqaS5rnubPrZX8KV6n9_Vs-BIi8x70erGQAlaxCTBvTNtgrx_4qHBolXEQ'>link</a>. 
-
-Edit: Kaggle link sharing is now working again. We will maintain zenodo as a backup solution. Here is the new <a href='https://www.kaggle.com/datasets/cd279706c866c29d34074971fe7fcf5138ac7da8bc4c08efe7669f70388f3cda'>link</a>.
-
-## Submission Guidelines
-The submission guidelines are now available! Please check the <a href='https://eeg-music-challenge.github.io/eeg-music-challenge/rules'>Rules</a> tab on this site for complete details. 
-
-## Dataset Release
-The dataset is now available at the <a href='https://www.kaggle.com/datasets/cd279706c866c29d34074971fe7fcf5138ac7da8bc4c08efe7669f70388f3cda'>EREMUS Kaggle page</a>
-
-## Baseline implemenation
-You can find baselines implementation in our <a href='https://github.com/SalvoCalcagno/eeg-music-challenge-icassp-2025-baselines'>GitHub repository</a>.
-
-
 # Call for participation
 
 As our understanding of emotions continues to evolve, the ability to accurately interpret and respond to emotional cues is more important than ever. Traditional methods of emotion recognition often fall short, particularly when it comes to the subtle and complex responses elicited by music. This is where our challenge comes in.

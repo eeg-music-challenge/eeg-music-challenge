@@ -41,15 +41,36 @@ For inference, same as for validation, each sample was first segmented into smal
 
 **Leaderboard**
 
-Our strategy yields the following results that serve as baseline
-
-| Model             | Balanced Accuracy |
-|-------------------|-------------------|
+| Team             | Balanced Accuracy |
+|:----------------|-------------:|
+| <mark>SIP Lab-IITH</mark>    |    100.00       |
+| <mark>Neural Harmony</mark>  |    100.00       |
+| <mark>NTUA-IRAL</mark>       |    100.00       |
+| MindReader     |    100.00       |
+| SHINE           |    100.00       |
+| GISP@HEU        |    100.00       |
+| ABCD            |    100.00       |
+| KONKUK_AICV     |     99.45   |
+| NWPU EEG        |     99.36   |
+| T1040           |     99.36   |
+| IIP-HCI         |   99.36     |
+| ZeD             |     99.36   |
+| USTC Challenger |     98.49   |
+| Team-CSL        |     98.17   |
+| Hunan           |     97.85   |
+| WCQY            |     97.76   |
+| CherryBlossoms  |     96.25   |
+| btbu-713        |     96.25   |
+| SAIL            |     94.87   |
+| BCIGO           |     90.00       |
 | EEGChannelNet [3] | 88.09             |
 | EEGNet [1]        | 65.91             |
 | SyncNet [2]       | 18.53             |
+| TEAS            |      6.17 |
+| iBrain          |      5.16 |
+| gdl4bci         |      3.11 |
 
-You can replicate results using our <a href='https://github.com/SalvoCalcagno/eeg-music-challenge-icassp-2025-baselines'>GitHub repository</a>.
+Results for [1], [2] and [3] come from our baselines. You can replicate results using our <a href='https://github.com/SalvoCalcagno/eeg-music-challenge-icassp-2025-baselines'>GitHub repository</a>.
 
 ---
 
